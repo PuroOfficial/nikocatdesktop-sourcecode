@@ -1,0 +1,4 @@
+1. Extract the NikoCatDesktop.zip file and remove the NikoCatDesktop.zip file
+2. Make sure .vs folder was created when opened in NikoCatDesktop.sln
+3. If not open project in NikoCatDesktop.sln.
+You have a open source Niko Cat Desktop working if all did correctly!
